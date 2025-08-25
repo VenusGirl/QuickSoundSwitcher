@@ -355,7 +355,7 @@
         <translation>릴리스 노트</translation>
     </message>
     <message>
-        <source>View what&apos;s new in version %1</source>
+        <source>View what's new in version %1</source>
         <translation>버전 %1의 새로운 기능 보기</translation>
     </message>
     <message>
@@ -414,7 +414,7 @@
     </message>
     <message>
         <source>This app is made with care by an independent developer and is not financed by ad revenue.
-If you&apos;d like to support my work, any contribution would be greatly appreciated!</source>
+If you'd like to support my work, any contribution would be greatly appreciated!</source>
         <translation>이 앱은 독립 개발자가 신중하게 제작했으며 광고 수익으로 자금을 조달하지 않습니다.
 제 작업을 지원해 주신다면, 어떤 기여라도 해주시면 대단히 감사하겠습니다!</translation>
     </message>
@@ -503,11 +503,11 @@ If you&apos;d like to support my work, any contribution would be greatly appreci
     </message>
     <message>
         <source>Allow brightness control</source>
-        <translation type="unfinished"></translation>
+        <translation>밝기 제어 허용</translation>
     </message>
     <message>
         <source>Experimental</source>
-        <translation type="unfinished"></translation>
+        <translation>실험적</translation>
     </message>
 </context>
 <context>
@@ -582,11 +582,11 @@ You can enable it in the General tab.</source>
     <name>LabeledSwitch</name>
     <message>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>켜기</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>끄기</translation>
     </message>
 </context>
 <context>
@@ -712,7 +712,7 @@ You can enable it in the General tab.</source>
     </message>
     <message>
         <source>Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>밝기</translation>
     </message>
 </context>
 <context>
